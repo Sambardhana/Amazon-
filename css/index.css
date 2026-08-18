@@ -96,7 +96,7 @@ span{
     font-weight: 700;
     margin-left: 2rem;
     background-color: #0f1111;
-    align-items:;
+    align-items:center;
 }
 .nav-search :hover{
     border: 2px solid orange ;
